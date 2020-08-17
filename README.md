@@ -7,7 +7,7 @@
 
 
 
-![格式工厂startup](./README.assets/格式工厂startup.jpg)
+![格式工厂startup](./README.assets/startup.jpg)
 
 
 
