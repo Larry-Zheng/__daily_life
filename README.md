@@ -53,7 +53,7 @@
 - [x] linkage
 - [x] LVQ
 - [x] kernel PCA
-- [ ] 
+- [x] ./tools/CheckImgs 清洗数据集 滤掉多余xml 图片 以及不能读的图片
 
 
 
